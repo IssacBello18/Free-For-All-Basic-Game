@@ -1,0 +1,5 @@
+name: FFA
+main: FFA\Loader
+api: [3.2.3]
+version: 0.0.1
+author: ImBryMax7u7
